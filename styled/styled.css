@@ -111,14 +111,10 @@ body {
 }
 
 .amberdata-header {
-    background-color: #A276E7;
-}
-
-.amberdata-header {
+    background: #A276E7;
     background-image: url('../img/bg.png');
     background-repeat: no-repeat;
     background-position: 100% 0px;
-    background-clip: text;
 }
 
 .amberdata-content-title {
